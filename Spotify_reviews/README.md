@@ -110,13 +110,15 @@ Each review is preprocessed and tokenized for further analysis.
 
 To run this notebook, install the following Python libraries:
 
-bash 
-pip install numpy pandas matplotlib seaborn nltk vaderSentiment wordcloud
+
+pip install numpy, pandas, matplotlib, seaborn,nltk, vaderSentiment  and wordcloud
+
 Additionally, ensure NLTK resources are downloaded:
 
-python  
-import nltk  
-nltk.download('punkt')  
+python
+import nltk
+nltk.download('punkt') 
+
 ---
 
 ## **Acknowledgments**
