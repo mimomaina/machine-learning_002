@@ -91,3 +91,43 @@ Example results for the models:
 ---
 
 ## 📦 Project Structure
+
+second-hand-car-price-prediction/
+│
+├── Pasted_Text_1747037731173.txt # Contains the full Jupyter Notebook in text format
+├── second_hand_cars.csv # Dataset
+└── README.md # This file
+
+
+---
+
+## 📚 Libraries Used
+
+- pandas
+- numpy
+- scikit-learn
+  - `RandomForestRegressor`
+  - `GradientBoostingRegressor`
+  - `StandardScaler`
+  - `PCA`
+- matplotlib
+- seaborn
+
+---
+
+## 🧑 Author
+
+- Mimo Maina (main contributor)
+- Original repository: [machine-learning_002](https://github.com/mimomaina/machine-learning_002 )
+
+---
+
+## 📄 License
+
+MIT License — see `LICENSE` for details.
+
+---
+
+## 📬 Questions?
+
+If you have any questions or improvements to suggest, feel free to open an issue or contribute!
