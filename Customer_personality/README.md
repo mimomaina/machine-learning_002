@@ -61,17 +61,15 @@ Key takeaways include:
    
 ## Install dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Open the Jupyter notebook:
 
-bash
-Copy
-Edit
+pip install -r requirements.txt
+
+## Open the Jupyter notebook:
+
+
 jupyter notebook Customer_personality.ipynb
 
 ## License
 This project is licensed under the MIT License.
+
 
