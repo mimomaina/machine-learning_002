@@ -58,7 +58,8 @@ Key takeaways include:
 1. Clone this repository:
    ```bash
    git clone <repo-url>
-Install dependencies:
+   
+## Install dependencies:
 
 bash
 Copy
@@ -70,5 +71,7 @@ bash
 Copy
 Edit
 jupyter notebook Customer_personality.ipynb
-License
+
+## License
 This project is licensed under the MIT License.
+
